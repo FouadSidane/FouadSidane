@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @khier1998
+- 👋 Hi, I’m @FouadSidane
 - 👀 I’m interested in javascript
 - 🌱 I’m currently learning React
 - 💞️ I’m looking to collaborate on React projects
